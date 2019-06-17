@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@nmq/q": "^1.0.3",
-    "dotenv": "^6.2.0",
+    "dotenv": "^6.2.0"
   },
   "homepage": "https://github.com/401-advanced-javascript-cdk/lab-logger#readme"
 }
